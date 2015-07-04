@@ -2,7 +2,7 @@ package br.com.calcard.calsystem.factoryTest;
 
 import java.util.Date;
 
-import br.com.calcard.calsystem.entity.Lojista;
+import br.com.topBalada.entity.Lojista;
 
 public class LojistaFactory {
 

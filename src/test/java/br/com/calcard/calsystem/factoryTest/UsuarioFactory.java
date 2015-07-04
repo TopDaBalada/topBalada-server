@@ -2,7 +2,7 @@ package br.com.calcard.calsystem.factoryTest;
 
 import java.util.Date;
 
-import br.com.calcard.calsystem.entity.Usuario;
+import br.com.topBalada.entity.Usuario;
 
 public class UsuarioFactory {
 

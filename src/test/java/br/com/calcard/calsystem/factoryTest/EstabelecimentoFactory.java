@@ -2,8 +2,8 @@ package br.com.calcard.calsystem.factoryTest;
 
 import java.util.Date;
 
-import br.com.calcard.calsystem.entity.Enum.StatusEstabelecimentoEnum;
-import br.com.calcard.calsystem.entity.Estabelecimento;
+import br.com.topBalada.entity.Estabelecimento;
+import br.com.topBalada.entity.Enum.StatusEstabelecimentoEnum;
 
 public class EstabelecimentoFactory {
 
